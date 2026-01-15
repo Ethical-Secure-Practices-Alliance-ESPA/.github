@@ -1,4 +1,5 @@
-# Ethical & Secure Practices Alliance (ESPA)
+#  ![ESPA Logo](espa-logo.png)
+Ethical & Secure Practices Alliance (ESPA)
 
 [![Website](https://img.shields.io/badge/website-ESPA-blue)](https://www.myespa.ch)
 [![Email](https://img.shields.io/badge/email-info%40myespa.ch-blueviolet)](mailto:info@myespa.ch)
